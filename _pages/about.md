@@ -32,7 +32,7 @@ redirect_from:
 
 ## Time-series modeling and sequence prediction
 
-- `NeurIPS 2025` [Time-o1: time-series forecasting needs transformed label alignment](https://arxiv.org/pdf/2505.17847?) <u>**Hao Wang**</u>, Licheng Pan, Zhichao Chen, Xu Chen, Qingyang Dai, Lei Wang, Haoxuan Li, Zhouchen Lin
+- `NeurIPS 2025` [Time-o1: time-series forecasting needs transformed label alignment](https://arxiv.org/pdf/2505.17847?) <ins>**Hao Wang**</ins>, Licheng Pan, Zhichao Chen, Xu Chen, Qingyang Dai, Lei Wang, Haoxuan Li, Zhouchen Lin
 
 - `ICLR 2025` [Fredf: Learning to forecast in the frequency domain](https://arxiv.org/abs/2405.13522), **Hao Wang**, Licheng Pan, Zhichao Chen, Degui Yang, Sen Zhang, Yifei Yang, Xinggao Liu, Haoxuan Li, Dacheng Tao. <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13476522600769876193"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AYFjsv_pBGBYC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
