@@ -57,7 +57,7 @@ redirect_from:
 
 - `NeurIPS 2025` [OLinear: a linear model for time series forecasting in orthogonally transformed domain](https://arxiv.org/abs/2505.08550) Wenzhen Yue, Yong Liu, Haoxuan Li, **Hao Wang**, Xianghua Ying, Ruohao Guo, Bowei Xing, Ji Shi.
 
-- `NeurIPS 2025` [Towards accurate time series forecasting via implicit decoding] Xinyu Li, Yuchen Luo, **Hao Wang**, Haoxuan Li, Liuhua Peng, Feng Liu, Yandong Guo, Kun Zhang, Mingming Gong
+- `NeurIPS 2025` [Towards accurate time series forecasting via implicit decoding]() Xinyu Li, Yuchen Luo, **Hao Wang**, Haoxuan Li, Liuhua Peng, Feng Liu, Yandong Guo, Kun Zhang, Mingming Gong
 
 - `TII 2024` [Analyzing and improving supervised nonlinear dynamical probabilistic latent variable model for inferential sensors](https://ieeexplore.ieee.org/abstract/document/10634990/) Zhichao Chen, **Hao Wang**, Guofei Chen, Yiran Ma, Le Yao, Zhiqiang Ge, Zhihuan Song.
 
