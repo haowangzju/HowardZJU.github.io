@@ -32,7 +32,7 @@ redirect_from:
 
 ## Time-series modeling and sequence prediction
 
-- `NeurIPS 2025` [Time-o1: time-series forecasting needs transformed label alignment](https://arxiv.org/pdf/2505.17847?) **Hao Wang**, Licheng Pan, Zhichao Chen, Xu Chen, Qingyang Dai, Lei Wang, Haoxuan Li, Zhouchen Lin
+- `NeurIPS 2025` [Time-o1: time-series forecasting needs transformed label alignment](https://arxiv.org/pdf/2505.17847?) <u>**Hao Wang**</u>, Licheng Pan, Zhichao Chen, Xu Chen, Qingyang Dai, Lei Wang, Haoxuan Li, Zhouchen Lin
 
 - `ICLR 2025` [Fredf: Learning to forecast in the frequency domain](https://arxiv.org/abs/2405.13522), **Hao Wang**, Licheng Pan, Zhichao Chen, Degui Yang, Sen Zhang, Yifei Yang, Xinggao Liu, Haoxuan Li, Dacheng Tao. <a href="https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13476522600769876193"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FHowardZJU%2FHowardZJU.github.io%2Fgoogle-scholar-stats%2Fgs_data.json&query=%24.publications.%5B%272ZMnbaoAAAAJ%3AYFjsv_pBGBYC%27%5D.num_citations&label=Citations&color=ffffff&logo=Google%20Scholar&style=flat&labelColor=ffffff"></a>
 
@@ -56,7 +56,7 @@ redirect_from:
 - `TSMC 2024` [Improving data-driven inferential sensor modeling by industrial knowledge: A Bayesian perspective](https://ieeexplore.ieee.org/abstract/document/10759849/) Zhichao Chen, **Hao Wang**, Zhihuan Song, Zhiqiang Ge.
 
 - `NeurIPS 2025` [OLinear: a linear model for time series forecasting in orthogonally transformed domain](https://arxiv.org/abs/2505.08550) Wenzhen Yue, Yong Liu, Haoxuan Li, **Hao Wang**, Xianghua Ying, Ruohao Guo, Bowei Xing, Ji Shi.
-- 
+
 - `NeurIPS 2025` [Towards accurate time series forecasting via implicit decoding] Xinyu Li, Yuchen Luo, **Hao Wang**, Haoxuan Li, Liuhua Peng, Feng Liu, Yandong Guo, Kun Zhang, Mingming Gong
 
 - `TII 2024` [Analyzing and improving supervised nonlinear dynamical probabilistic latent variable model for inferential sensors](https://ieeexplore.ieee.org/abstract/document/10634990/) Zhichao Chen, **Hao Wang**, Guofei Chen, Yiran Ma, Le Yao, Zhiqiang Ge, Zhihuan Song.
@@ -100,7 +100,7 @@ redirect_from:
 
 - `AAAI 2024` [Improving neural network generalization on data-limited regression with doubly-robust boosting](https://ojs.aaai.org/index.php/AAAI/article/download/30071/31885) **Hao Wang$^\dagger$**. 
 
-- `TNNLS 2025` [Robust missing value imputation with proximal optimal transport for low-quality IIoT data] **Hao Wang**, Zhichao Chen, Hui Zheng, Degui Yang, Dangjun Zhao, Buge Liang.
+- `TNNLS 2025` [Robust missing value imputation with proximal optimal transport for low-quality IIoT data](https://ieeexplore.ieee.org/document/11153791) **Hao Wang**, Zhichao Chen, Hui Zheng, Degui Yang, Dangjun Zhao, Buge Liang.
 
 - `TII 2024` [Spot-i: similarity preserved optimal transport for industrial iot data imputation](https://scholar.google.com/scholar?oi=bibs&cluster=17035339579616102171&btnI=1&hl=zh-CN) **Hao Wang**, Zhichao Chen, Zhaoran Liu, Licheng Pan, Hu Xu, Yilin Liao, Haozhe Li, Xinggao Liu. 
 
